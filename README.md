@@ -1,0 +1,2 @@
+# HUST_C_CourseDesign
+华中科技大学人工智能与自动化学院C语言课程设计题目：BorlandC汉化文本编辑器。功能有
